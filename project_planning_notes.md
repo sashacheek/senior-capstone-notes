@@ -2,7 +2,7 @@
 
 ## Proposed ideas
 - Quiz Web App
-- .Net framework
+- MERN Stack (MongoDB, ExpressJS, React, NodeJS)
 - Different modes
     - fast questions (lightning round) with countdown and points if answered fast enough
     - flashcard format
@@ -13,7 +13,9 @@
     - connect AI for more questions
 
 
-## Proposed roles
-- Sasha Cheek -> Frontend
-- Joshua Johnson -> Backend
-- Alex Jasso -> Team Leader
+### Proposed Roles
+- Design - Jalen, Swam
+- Frontend/Project setup - Sasha
+- Backend - Joshua
+- Devops - Brayden, Swam
+- Team Lead/Support - Alex
