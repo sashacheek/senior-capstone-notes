@@ -19,8 +19,8 @@ Sasha - #3 Technology Infrastructure
 - Next meeting: 7:30pm 9/16 Mon
 
 ### Proposed Roles
-- decide requirements
-- design - Jalen, Swam
-- frontend - Sasha
-- backend - Joshua
-- devops (?) - Brayden, Swam
+- Design - Jalen, Swam
+- Frontend - Sasha
+- Backend - Joshua
+- Devops - Brayden, Swam
+- Team Lead/Support - Alex
