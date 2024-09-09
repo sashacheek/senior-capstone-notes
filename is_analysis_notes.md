@@ -1,5 +1,6 @@
 # IS Analysis Notes - Due Sep 18 (Wed)
 ### Team 3
+- [ ] = Required text section
 
 ----------------------------------------------
 

@@ -3,7 +3,7 @@
 ## Proposed ideas
 - Quiz Web App
 - .Net framework
-- different modes
+- Different modes
     - fast questions (lightning round) with countdown and points if answered fast enough
     - flashcard format
     - standard quiz/test format
