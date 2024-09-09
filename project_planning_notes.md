@@ -16,3 +16,4 @@
 ## Proposed roles
 - Sasha Cheek -> Frontend
 - Joshua Johnson -> Backend
+- Alex Jasso -> Team Leader
