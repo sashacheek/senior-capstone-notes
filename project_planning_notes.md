@@ -2,7 +2,7 @@
 
 ## Proposed ideas
 - Quiz Web App
-- MERN Stack (MongoDB, ExpressJS, React, NodeJS)
+- Asp.Net Core
 - Different modes
     - fast questions (lightning round) with countdown and points if answered fast enough
     - flashcard format

@@ -7,7 +7,7 @@
 1. IT Challenge
 - Identify IT challenge to solve
 - Create solution with positive real world impact
-- [ ] IT Challenge
+- [x] IT Challenge
 
 2. Fact Gathering
 - Determine information about systems, requirements, preferences
@@ -21,7 +21,7 @@
 - [ ] Mission Statement
 - [ ] Brief History
 - [ ] Organizational Structure
-- [ ] Technology Infrastructure
+- [x] Technology Infrastructure
 
 4. Project
 - Only generals, not specifics (ex. not Microsoft vs Linux servers)
