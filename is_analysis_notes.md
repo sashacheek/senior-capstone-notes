@@ -15,25 +15,25 @@
     - Interviews
     - Questionnaires
     - Sampling
-- [ ] Fact Gathering
+- [x] Fact Gathering
 
 3. Organization
-- [ ] Mission Statement
-- [ ] Brief History
-- [ ] Organizational Structure
+- [x] Mission Statement
+- [x] Brief History
+- [x] Organizational Structure
 - [x] Technology Infrastructure
 
 4. Project
 - Only generals, not specifics (ex. not Microsoft vs Linux servers)
-- [ ] Feasibility Analysis
+- [x] Feasibility Analysis
 - Investigate feasibility of IT infrastructure proposed earlier
     - Operational
     - Schedule
     - Economic
     - Technical
-- [ ] Scope Statement
-- [ ] Project Charter
-- [ ] Communication Plan
+- [x] Scope Statement
+- [x] Project Charter
+- [x] Communication Plan
 - how to make decisions? Vote, written discussion, call?
-- [ ] Team Contract
-- [ ] Work Breakdown Structure
+- [x] Team Contract
+- [x] Work Breakdown Structure
