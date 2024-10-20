@@ -2,7 +2,7 @@
 
 ### IS Design and Development
 
-- Do (1. Infrastructure) first and use that for the other parts
+- Finish (1. Infrastructure) by end of Wednesday and use that for the other parts
 
 ## Infrastructure
 
@@ -49,3 +49,7 @@
 - Budget: Joshua, Brayden
 - IO: Alex
 - Design: Swam
+
+### Next meeting
+
+- 10/27 (Sun) 7:30pm

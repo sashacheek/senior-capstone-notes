@@ -18,5 +18,5 @@
 - Design - Jalen, Swam
 - Frontend/Project setup - Sasha
 - Backend - Joshua
-- Devops (Cancelled) - Brayden, Swam
+- Devops (One-time deployment) - Brayden, Swam
 - Team Lead/Support - Alex
