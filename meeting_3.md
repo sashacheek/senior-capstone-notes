@@ -6,7 +6,9 @@
 
 ### Infrastructure
 
--
+- Asp.net Core
+- C#
+- Amazon Web Services (AWS)
 
 ### IS Design and Development Roles
 
