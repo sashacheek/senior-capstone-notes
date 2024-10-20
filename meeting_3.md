@@ -12,6 +12,7 @@
 - C#
 - Amazon Web Services (AWS)
 - HTML, CSS, Boostrap
+- Non-chatgpt AI model (ChatGPT requires payment)
 
 ### Database
 
@@ -23,6 +24,17 @@
 - Windows-based server to host the site
 - Our site is web-browser based
 - Assumptions for user to use our product: internet connection, web browser, computer/device
+
+### Network Infrastructure
+
+- No specific network requirement
+- Use network provided by user's computer
+- See Example 2 on D2L
+
+### Multimedia Requriement
+
+- User needs basic LAN to protect against attacks such as XSS
+- No other requirements
 
 ## Other
 
