@@ -12,5 +12,5 @@
 
 - Infrastructure: Jalen, Sasha
 - Budget: Joshua, Brayden
-- IO:
+- IO: Alex
 - Design: Swam
