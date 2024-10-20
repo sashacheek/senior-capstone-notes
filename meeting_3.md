@@ -9,6 +9,9 @@
 - Asp.net Core
 - C#
 - Amazon Web Services (AWS)
+- HTML, CSS, Boostrap
+- Session and cookies to keep user data (questions, other data)
+- No database needed
 
 ### Scaling down
 
