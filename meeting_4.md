@@ -27,13 +27,13 @@
 
 ##### Task division
 
-- 1. Joshua
-- 2. Brayden
-- 3. Jalan
-- 4. Sasha
-- 5. Alex
-- 6. Swam
+1. Joshua
+2. Brayden
+3. Jalan
+4. Sasha
+5. Alex
+6. Swam
 
 ### Next meeting
 
-- Undecided
+- 11/3 (Sun) 8pm
