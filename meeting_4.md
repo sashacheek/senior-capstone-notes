@@ -37,3 +37,4 @@
 ### Next meeting
 
 - 11/3 (Sun) 8pm
+- 11/1 (Fri) 4:30pm Design team only (Jalen, Swam, Alex)
