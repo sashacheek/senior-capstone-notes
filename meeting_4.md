@@ -10,12 +10,28 @@
 
 ### Project Planning
 
-- Begin project development this week
-- Complete project by thanksgiving
+- Complete design this week (10/27-11/2) (Jalen, Swam)
+- Complete project by thanksgiving (~3.5 weeks)
 - Spend last 2 weeks preparing project for submission
 
-### Things to discuss
+### Frontend requirements
+
+- Design set
+- Initialize project (if not done already)
+- Post project on github and add everyone as collaborators
+- Talk with backend about data formats/who's passing what
+
+### IS Implementation and Evaluation
+
+- Complete by 11/13 (Wed)
+- Task division
+  - 1. Joshua
+  - 2. Brayden
+  - 3. Jalan
+  - 4. Sasha
+  - 5. Alex
+  - 6. Swam
 
 ### Next meeting
 
-- 11/4 (Mon)
+- Undecided
