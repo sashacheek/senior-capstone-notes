@@ -24,13 +24,15 @@
 ### IS Implementation and Evaluation
 
 - Complete by 11/13 (Wed)
-- Task division
-  - 1. Joshua
-  - 2. Brayden
-  - 3. Jalan
-  - 4. Sasha
-  - 5. Alex
-  - 6. Swam
+
+##### Task division
+
+- 1. Joshua
+- 2. Brayden
+- 3. Jalan
+- 4. Sasha
+- 5. Alex
+- 6. Swam
 
 ### Next meeting
 
